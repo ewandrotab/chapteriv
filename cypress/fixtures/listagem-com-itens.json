@@ -1,0 +1,33 @@
+[
+    {
+        "firstName": "Rosângela Isabel Emilly",
+        "lastName": "Fernandes",
+        "adress": "Rua Sueli Moreira Gossen, 532 ",
+        "emailAdress": "emillyfernandes@quimicaindaiatuba.com.br",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2015",
+        "selectMonths": "Abril",
+        "pwd": "Pwd123@"
+    },
+
+    {
+        "firstName": "Emanuel Diogo",
+        "lastName": "Alves",
+        "adress": "Rua Ariosto Motta, 749",
+        "emailAdress": "emanueldiogoalves@facebook.com",
+        "radioGender": "m",
+        "checks": [
+            "Livros",
+            "Dormir"
+        ],
+        "selectCountries": "Japão",
+        "selectYears": "2020",
+        "selectMonths": "Setembro",
+        "pwd": "Pwd123@"
+    }
+]
